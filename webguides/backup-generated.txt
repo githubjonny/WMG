@@ -1,0 +1,40 @@
+This backup was created with the free WMG migration 
+plugin (see websitemigrationguides.com/guide.php?migrate=14 
+for details). 
+
+#################################
+##### Important Information #####
+#################################
+
+This plugin is distributed in the hope that it will help you when upgrading 
+moodle. It comes WITHOUT ANY WARRANTY; without even the implied warranty of 
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Do not leave this plugin on your hosting as it may be a security risk. Use 
+it only to collect the required information and back up the plugin folders. 
+As such treat this plugin as if it is open to security exploits.
+Do not copy/install the plugin to your new moodle install.
+This plugin was created to function on a linux platform.
+Please make sure that you have made a complete tested backup of your moodle 
+site before proceeding.
+This plugin was designed to help you when upgrading moodle. I can not guarantee
+everything will be correct or even if it will work so always check everything 
+manually.
+Always test this plugin on a copy of your moodle site (e.g. a non live version).
+
+#################################
+########### How to use ########## 
+#################################
+
+Simply copy all the folders/files in the WMGBackup.zip to your new 
+moodle install (the same place as your moodles config.php file).
+
+#################################
+########### Say Thanks ########## 
+#################################
+
+If this plugin has helped you, please consider buying me 
+a drink by donation £2 via PayPal on my website at
+https://websitemigrationguides.com 
+
+Thanks and I hope the plugin has saved you time upgrading :)
+
