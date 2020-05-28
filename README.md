@@ -1,3 +1,3 @@
 # WMG
-WMG Moodle Plugin
-Still in Beta but should work as expected.
+<h1>WMG Moodle Plugin</h1>
+<p>Still in Beta but should work as expected.</p>
