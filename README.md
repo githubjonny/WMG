@@ -1,0 +1,2 @@
+# WMG
+WMG Moodle Plugin
