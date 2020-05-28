@@ -1,5 +1,6 @@
 # WMG Moodle Plugin
 Still in Beta but should work as expected.
+Please see https://websitemigrationguides.com/guide.php?migrate=14 for full details.
 
 # Important
 This plugin is distributed in the hope that it will help you when upgrading moodle. It comes WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
