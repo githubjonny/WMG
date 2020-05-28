@@ -5,4 +5,5 @@ $plugin->version   = 2020052500;        // The current plugin version (Date: YYY
 $plugin->requires  = 2015051109;        // Requires this Moodle version.
 $plugin->component = 'local_webguides'; // Full name of the plugin (used for diagnostics).
 $plugin->maturity = MATURITY_BETA;
+$plugin->release = 'v0.1.1';
 ?>
